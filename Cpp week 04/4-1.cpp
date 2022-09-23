@@ -13,7 +13,7 @@ int countDigit(int n) {
 }
 
 void countDigit(string c) {
-    countDigit(c);
+    countDigit( c );
 }
 
 int main() {
